@@ -80,5 +80,5 @@ Released under the **GNU General Public License v3.0 or later** (`GPL-3.0-or-lat
 ## 🙌 Credits
 
 - Original stream-preview bypass concept by **yofukashino** (DiscordBypasses / Replugged).
-- Plugin by **overocai**.
+- Plugin by **[overocai](https://discord.com/users/1288832011452153910)**.
 - Built on top of **[Equicord](https://github.com/Equicord/Equicord)** & **[Vencord](https://github.com/Vendicated/Vencord)**.
