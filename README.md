@@ -10,6 +10,18 @@ A userplugin for **[Equicord](https://github.com/Equicord/Equicord)** / **[Venco
 
 ---
 
+## 🖼️ Preview
+
+**Plugin settings**
+
+<img src="assets/settings.png" alt="CustomStreamPreview settings panel" width="460" />
+
+**Quick-access button in the user panel** — left-click toggles the fake preview, right-click sets the image:
+
+<img src="assets/panel-button.png" alt="CustomStreamPreview button next to the mute/deafen controls" width="320" />
+
+---
+
 ## ✨ Features
 
 - **Custom thumbnail** — replace the auto-captured screen frame with your own image.
